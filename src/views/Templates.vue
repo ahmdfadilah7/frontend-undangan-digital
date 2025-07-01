@@ -9,6 +9,7 @@
         Pilih template undangan digital yang sempurna untuk momen spesial Anda
       </p>
       <p>Test</p>
+      <p>Test 2 </p>
     </div>
   </section>
   <section class="py-20 bg-gray-50">
