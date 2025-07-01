@@ -8,6 +8,7 @@
       <p class="text-xl text-white/90">
         Pilih template undangan digital yang sempurna untuk momen spesial Anda
       </p>
+      <p>Test</p>
     </div>
   </section>
   <section class="py-20 bg-gray-50">
